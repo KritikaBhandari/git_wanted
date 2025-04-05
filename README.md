@@ -25,7 +25,6 @@ GitWanted is a full-stack web application that bridges GitHub issues with crypto
 - **Ethereum Wallet Connection**: Connect your MetaMask or other Web3 wallet
 - **Bounty Management**: Track, claim, and complete bounties
 - **Reputation System**: Build reputation through successful bounty completions
-- **Activity Timeline**: Track all platform activities
 - **Responsive Design**: Mobile, tablet, and desktop friendly UI
 
 ## Tech Stack
